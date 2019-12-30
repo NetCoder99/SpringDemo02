@@ -5,6 +5,7 @@ import java.sql.Timestamp;
 
 @Entity
 @Table(name = "Department", schema = "HumanResources")
+//@Table(name = "Department")
 public class Department {
 
 	private Integer DepartmentID;

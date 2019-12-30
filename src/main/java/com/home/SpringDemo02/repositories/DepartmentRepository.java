@@ -1,6 +1,5 @@
-package com.home.SpringDemo02;
+package com.home.SpringDemo02.repositories;
 
-import java.util.List;
 import com.home.models.HumanResources.Department;
 import org.springframework.data.repository.CrudRepository;
 
